@@ -15,11 +15,7 @@ para convertir ideas en experiencias útiles e interactivas.
 
 ## Sobre mí
 
-- 🎓 Me estoy formando en **Ingeniería de Sistemas**.
-- 🤖 Me interesa explorar la **inteligencia artificial**, la automatización y la visión por computador.
-- 🌐 Desarrollo aplicaciones web, de escritorio y herramientas para resolver problemas reales.
-- 🔧 También disfruto experimentar con microcontroladores, sensores y robótica.
-- 📚 Actualmente sigo fortaleciendo mis conocimientos de arquitectura de software y desarrollo full stack.
+- Me estoy formando en **Ingeniería de Sistemas**. Desarrollo aplicaciones web, de escritorio y herramientas para resolver problemas reales, también disfruto experimentar con microcontroladores, sensores y robótica. Actualmente sigo fortaleciendo mis conocimientos de arquitectura de software y desarrollo full stack.
 
 ## Tecnologías y herramientas
 
@@ -41,7 +37,6 @@ para convertir ideas en experiencias útiles e interactivas.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 ## Proyectos destacados
 
@@ -78,15 +73,9 @@ semanal con distintos roles de usuario.
 
 <div align="center">
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AxelC2code&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/AxelC2code)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelC2code&layout=compact&theme=tokyonight&hide_border=true&locale=es)](https://github.com/AxelC2code)
+[![Estadísticas de GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AxelC2code&theme=tokyonight)](https://github.com/AxelC2code)
+[![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AxelC2code&theme=tokyonight)](https://github.com/AxelC2code)
 
 </div>
 
 ---
-
-<div align="center">
-
-### Siempre aprendiendo, construyendo y compartiendo 🚀
-
-</div>
