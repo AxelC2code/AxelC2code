@@ -9,6 +9,8 @@ para convertir ideas en experiencias útiles e interactivas.
 
 [![GitHub](https://img.shields.io/badge/GitHub-AxelC2code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AxelC2code)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AxelCastroAguilar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelcastroaguilar/)
+
 </div>
 
 ---
